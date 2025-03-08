@@ -9,8 +9,8 @@ First, create the folder on your computer where you want your project to be stor
 Then, open a terminal at that directory and run the following commands:
 
 ```console
-npx degit rbxts-flamework/template
-npm i
+bunx degit https://github.com/Velover/TSFlameworkGameTemplate
+bun i
 ```
 
 That's it! The template has been installed. For further information on how to use Flamework in your project, please see [here](https://fireboltofdeath.dev/docs/flamework).
