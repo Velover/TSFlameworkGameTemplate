@@ -101,21 +101,21 @@ NOTE: The provided sizes in cheat sheet are ALREADY upscaled by SCALING_FACTOR.
 
 **Interactive elements**
 
-- Smallest (24px)
-- Recommended (32-40px)
-- Important (48px)
+- Smallest (36px)
+- Recommended (48-60px)
+- Important (72px)
 
 **Button spacing**
 
-- Small buttons (16-24px)
-- Medium buttons (16-24px)
-- Big buttons (8-16px)
+- Small buttons (24-36px)
+- Medium buttons (24-36px)
+- Big buttons (12-24px)
 
 **Text size**
 
-- Small (13px)
-- Recommended (14-18px)
-- Important (20-24px)
+- Small (20px)
+- Recommended (21-27px)
+- Important (30-36px)
 
 #### Tablet
 
