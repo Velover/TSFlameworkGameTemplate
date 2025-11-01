@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@rbxts/compiler-types": "^3.0.0-types.0",
-    "@rbxts/types": "^1.0.885",
+    "@rbxts/types": "^1.0.888",
     "@typescript-eslint/eslint-plugin": "^8.26.0",
     "@typescript-eslint/parser": "^8.26.0",
     "eslint": "^8.57.1",
@@ -35,10 +35,10 @@
     "@rbxts/pretty-react-hooks": "^0.6.4",
     "@rbxts/react": "^17.2.3",
     "@rbxts/react-charm": "^0.3.0",
-    "@rbxts/react-ripple": "^2.1.0",
+    "@rbxts/react-ripple": "^3.0.0-alpha.1",
     "@rbxts/react-roblox": "^17.2.3",
-    "@rbxts/ripple": "^0.9.3",
-    "@rbxts/services": "^1.5.5",
+    "@rbxts/ripple": "^0.10.0-alpha.3",
+    "@rbxts/services": "^1.6.0",
     "@rbxts/tool_pack": "^2.1.10"
   }
 }
